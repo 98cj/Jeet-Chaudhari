@@ -20,6 +20,6 @@
 - In this project, I have implemented real-world attacks such as Stagefright, Privilege Escalation, Lock Suspension, and Phonesploit(ADB-exploit) on Android OS and also developed security mechanisms such as Secure Lock that conducts fingerprint validation and intruder detection, as well as a random keyboard application to prevent keylogger attacks and shoulder surfing.
 - Technologies/Tools Used: Metasploit, Phonesploit, Android Studio, XML, and Gennymotion.
 
-# Wi-fi Vulnerability Assessment    _Jan-2020_   
+# 6. Wi-fi Vulnerability Assessment    _Jan-2020_   
 - In this project, I have analyzed the insecurity of WLAN by performing attacks like De-Authentication attack, DNS spoofing, Denial of Service (DOS), MITM, Fake Access Point, and Password Recovery. 
 - Technologies/Tools Used: Atheros Adapter (AR9271 Chipset), Ettercap, setoolkit, aircrack-ng, pyrit, hostapd, and Metasploit.
