@@ -25,8 +25,8 @@
 
 - **Technologies/Tools Used:** Metasploit, Phonesploit, Android Studio, XML, and Gennymotion.
 
-## 6. Wi-fi Vulnerability Assessment : _Jan-2020_   
-- In this project, I have analyzed the insecurity of WLAN by performing attacks like De-Authentication attack, DNS spoofing, Denial of Service (DOS), MITM, Fake Access Point, and Password Recovery. 
+## 6. Exploiting vulnerabilities of Wireless Networks : _Jan-2020_   
+- In this project, I showcased the insecurity of Wifi networks by performing attacks like De-Authentication attack, DNS spoofing, Denial of Service (DOS), MITM, Fake Access Point and Password cracking. 
 
 - **Technologies/Tools Used:** Atheros Adapter (AR9271 Chipset), Ettercap, setoolkit, aircrack-ng, pyrit, hostapd, and Metasploit.
 
